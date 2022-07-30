@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1035160333074",
+    "project_id": "pumpupnepal",
+    "storage_bucket": "pumpupnepal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035160333074:android:cfd7ec37a5cc08d507a1cb",
+        "android_client_info": {
+          "package_name": "com.pumpupnepal.loginscreen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035160333074-540ffp44fdb80q41064ksicr5nie2hp3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLdy6dV6_GfodaHoVc1O_QerVXwcIDLME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1035160333074-540ffp44fdb80q41064ksicr5nie2hp3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

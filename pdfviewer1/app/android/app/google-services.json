@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "720379810567",
+    "project_id": "primelibary",
+    "storage_bucket": "primelibary.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720379810567:android:a27eb9720641d13f196ba2",
+        "android_client_info": {
+          "package_name": "com.whyme.primelibary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720379810567-k1ek0aqi83gsbk9u6i8so7g20k8dk068.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgE6oCEDCHbfwf0qxZqsEYVxy9T7BIgPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "720379810567-k1ek0aqi83gsbk9u6i8so7g20k8dk068.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
